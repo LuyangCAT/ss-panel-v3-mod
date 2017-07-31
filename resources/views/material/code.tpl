@@ -25,7 +25,7 @@
 					<div class="card">
 						<div class="card-main">
 							<div class="card-inner">
-								<p>{$config["appName"]} 的邀请码，没了的话就烧纸吧。</p>
+								<p>{$config["appName"]} 的邀请码，没了的话就点击最底下给他发邮件索要。</p>
 							</div>
 						</div>
 					</div>
@@ -42,7 +42,7 @@
 										<table class="table">
 											<thead>
 											<tr>
-												<th>###</th>
+												<th>#</th>
 												<th>邀请码 (点击邀请码进入注册页面)</th>
 												<th>状态</th>
 											</tr>
