@@ -24,7 +24,8 @@
 								<div class="card">
 									<div class="card-main">
 										<div class="card-inner">
-											<p>请问您今天要来点兔子吗？</p>
+											<p>来点自由的灵魂吧，墙外的世界也很精彩 ~</p>
+											    <p>*注册就能获得1G免费体验流量*</p>
 										</div>
 									</div>
 								</div>
